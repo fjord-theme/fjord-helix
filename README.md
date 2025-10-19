@@ -4,21 +4,28 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 
 ## 🎨 Color Palette
 
-### Base Colors
+### Core Colors
 
-- **Background**: `#1B2532` - Deep dusk blue
-- **Foreground**: `#E8F0F3` - Soft white
-- **Selection**: `#FFD285` - Warm amber
-- **Cursor**: `#9DD99A` - Leaf green
+| Color                                                     | Name              |
+| --------------------------------------------------------- | ----------------- |
+| ![#1B2532](https://img.shields.io/badge/%231B2532-1B2532) | **background**    |
+| ![#222E3F](https://img.shields.io/badge/%23222E3F-222E3F) | **backgroundAlt** |
+| ![#1F2A39](https://img.shields.io/badge/%231F2A39-1F2A39) | **surface**       |
+| ![#233141](https://img.shields.io/badge/%23233141-233141) | **line**          |
+| ![#E8F0F3](https://img.shields.io/badge/%23E8F0F3-E8F0F3) | **foreground**    |
+| ![#6C7A86](https://img.shields.io/badge/%236C7A86-6C7A86) | **muted**         |
+| ![#51606B](https://img.shields.io/badge/%2351606B-51606B) | **mutedDim**      |
 
 ### Accent Colors
 
-- **Green**: `#9DD99A` - Soft leaf green
-- **Blue**: `#5DA6EA` - Clear sky blue
-- **Yellow**: `#FFD285` - Warm amber
-- **Purple**: `#B9A0F8` - Muted lavender
-- **Red**: `#F37C7C` - Soft coral
-- **Cyan**: `#B8E7E9` - Light cyan
+| Color                                                     | Name                         |
+| --------------------------------------------------------- | ---------------------------- |
+| ![#9DD99A](https://img.shields.io/badge/%239DD99A-9DD99A) | **green** _(primary accent)_ |
+| ![#5DA6EA](https://img.shields.io/badge/%235DA6EA-5DA6EA) | **blue**                     |
+| ![#FFD285](https://img.shields.io/badge/%23FFD285-FFD285) | **yellow**                   |
+| ![#B9A0F8](https://img.shields.io/badge/%23B9A0F8-B9A0F8) | **purple**                   |
+| ![#F37C7C](https://img.shields.io/badge/%23F37C7C-F37C7C) | **red**                      |
+| ![#B8E7E9](https://img.shields.io/badge/%23B8E7E9-B8E7E9) | **cyan**                     |
 
 ## 📦 Installation
 
@@ -60,7 +67,6 @@ This theme is automatically generated from the [main Fjord repository](https://g
 If you enjoy the Fjord theme and find it useful, consider supporting my work:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jshuntley)
-
 
 ## 📄 License
 
