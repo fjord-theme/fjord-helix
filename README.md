@@ -56,7 +56,7 @@ The theme is designed to work transparently with your terminal colors while prov
 
 ## 📸 Preview
 
-![Fjord Helix Theme](https://raw.githubusercontent.com/fjord-theme/fjord/main/docs/images/colortest.png)
+![Fjord Helix Theme](https://github.com/fjord-theme/Fjord/blob/main/images/helix.png)
 
 ## 🔄 Updates
 
